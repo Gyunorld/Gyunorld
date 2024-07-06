@@ -10,7 +10,7 @@ public class helloWorld {
 }
 </code></pre>
 -->
-![header](https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&text=Welcome%20to%20MINGYU's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&text=Welcome%20to%20MINGYU's%20GitHub%20💻&animation=fadeIn&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
 ***
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gyunorld&show_icons=true&theme=dracula&count_private=true)
