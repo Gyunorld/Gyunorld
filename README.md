@@ -10,6 +10,7 @@ public class helloWorld {
 }
 </code></pre>
 -->
+![header](https://capsule-render.vercel.app/api?type=Transparent&color=gradient&height=250&section=header&text=KIMMINGYU&fontSize=90)
 
 ***
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gyunorld&show_icons=true&theme=dracula&count_private=true)
