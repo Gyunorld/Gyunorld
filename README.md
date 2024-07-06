@@ -12,7 +12,7 @@ public class helloWorld {
 -->
 
 ***
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gyunorld&show_icons=true&theme=dracula&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gyunorld&show_icons=true&theme=dracula&count_private=true)
 ***  
 
 # 👊 CAREER 
@@ -38,7 +38,7 @@ public class helloWorld {
 --- 
 ### ⚙️ SKILL & Setting 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyunorld)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyunorld&hide=html)
 
 | Language | IDE | Framwork | Database |
 |-----|-----|-----|-----|
