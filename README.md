@@ -10,7 +10,7 @@ public class helloWorld {
 }
 </code></pre>
 -->
-![header](https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&text=Welcome%20to%20MINGYU's%20GitHub%20💻&animation=fadeIn&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&text=Welcome%20to%20MINGYU's%20GitHub%20💻&animation=fadeIn&fontSize=35&fontAlignY=40&fontAlign=60&height=180)
 
 ***
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gyunorld&show_icons=true&theme=dracula&count_private=true)
@@ -18,8 +18,8 @@ public class helloWorld {
 
 # 👊 CAREER 
 
-🏫 __기계자동차공학부 자동차공학전공__  졸업  
-🚴‍♀️ 신세계 I&C **JAVA 백엔드** 개발자 과정 수료ing...
+🏫 __기계자동차공학부 자동차공학전공__  졸업 🎓  
+👨‍💻 신세계 I&C **JAVA 백엔드** 개발자 과정 진행ing...
 
 ### [:accessibility: Info](notion링크)
 --- 
