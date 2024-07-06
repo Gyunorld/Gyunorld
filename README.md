@@ -51,9 +51,9 @@ public class helloWorld {
 --- 
 ### 🤯 Project 
 
-<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dabbbin&repo=OOP-BBIC)](https://github.com/dabbbin/OOP-BBIC)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dabbbin&repo=OpenForum)](https://github.com/dabbbin/OpenForum)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gyunorld&repo=shop-ssgnack)](https://github.com/Gyunorld/shop-ssgnack)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gyunorld&repo=wms-3355ABC)](https://github.com/Gyunorld/wms-3355ABC)
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dabbbin&repo=DB-albumshop)](https://github.com/dabbbin/DB-albumshop)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dabbbin&repo=Swim_Admin)](https://github.com/dabbbin/Swim_Admin) -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gyunorld&repo=swift_study)](https://github.com/Gyunorld/swift_study)
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dabbbin&repo=Swim_Admin)](https://github.com/dabbbin/Swim_Admin) -->
