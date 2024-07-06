@@ -44,7 +44,7 @@ public class helloWorld {
 | Language | IDE | Framwork | Database |
 |-----|-----|-----|-----|
 |<img alt="Java" src ="https://img.shields.io/badge/Java-000000.svg?&style=for-the-badge&logo=Java&logoColor=white"/> | <img alt="intellijidea" src ="https://img.shields.io/badge/intellij-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=#000000"/> | <img alt="spring" src ="https://img.shields.io/badge/spring-000000.svg?&style=for-the-badge&logo=spring&logoColor=white"/> | <img alt="MySql" src ="https://img.shields.io/badge/MySql-000000.svg?&style=for-the-badge&logo=MySqle&logoColor=#092E20"/> |
-
+|<img alt="Swift" src ="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>|<img alt="Xcode" src ="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white">|||
 
 
 
