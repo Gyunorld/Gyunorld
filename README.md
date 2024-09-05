@@ -49,10 +49,9 @@ public class helloWorld {
 
 
 --- 
-### 🤯 Project 
+### 🗂️ Project 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gyunorld&repo=shop-ssgnack)](https://github.com/Gyunorld/final-bidssgket)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gyunorld&repo=final-bidssgket)](https://github.com/Gyunorld/final-bidssgket)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gyunorld&repo=shop-ssgnack)](https://github.com/Gyunorld/shop-ssgnack)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gyunorld&repo=wms-3355ABC)](https://github.com/Gyunorld/wms-3355ABC)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gyunorld&repo=swift_study)](https://github.com/Gyunorld/swift_study)
-<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dabbbin&repo=Swim_Admin)](https://github.com/dabbbin/Swim_Admin) -->
