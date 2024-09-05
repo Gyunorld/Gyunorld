@@ -19,7 +19,7 @@ public class helloWorld {
 # 👊 CAREER 
 
 🏫 __기계자동차공학부 자동차공학전공__  졸업 🎓  
-👨‍💻 신세계 I&C **JAVA 백엔드** 개발자 과정 진행중...🔄
+👨‍💻 신세계 I&C **JAVA 백엔드** 개발자 과정 수료 🎓
 
 ### [:accessibility: Info](notion링크)
 --- 
