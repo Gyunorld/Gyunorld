@@ -13,7 +13,7 @@ public class helloWorld {
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&text=Welcome%20to%20MINGYU's%20GitHub%20💻&animation=fadeIn&fontSize=35&fontAlignY=40&fontAlign=60&height=180)
 
 ***
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Gyunorld&show_icons=true&theme=dracula&count_private=true)
+![GitHub status](https://github-readme-stats.vercel.app/api?username=Gyunorld&show_icons=true&theme=dracula&count_private=true)
 ***  
 
 # 👊 CAREER 
