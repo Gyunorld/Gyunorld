@@ -34,7 +34,7 @@ public class helloWorld {
 --- 
 ### 🕰️ INFORMATION 
 
-📧 *mingue640@icloud.com*
+📧 *mingyukim324@gmail.com*
 
 --- 
 ### ⚙️ SKILL & Setting 
