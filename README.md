@@ -1,52 +1,65 @@
-<!--
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&size=30&pause=1000&color=0019CF&width=435&lines=😄+HI+!+Dabin+World+!+!+!)](https://git.io/typing-svg)
-***
+<div align = center>
 
-<pre><code>
-public class helloWorld {
-  public static void main(String[] args) {
-    System.out.println("Hello, My name is dabin!");
-  }
-}
-</code></pre>
--->
-![header](https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&text=Welcome%20to%20MINGYU's%20GitHub%20💻&animation=fadeIn&fontSize=35&fontAlignY=40&fontAlign=60&height=180)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=header&text=iOSDEVELOPER&fontSize=70)
 
-***
-![GitHub status](https://github-readme-stats.vercel.app/api?username=Gyunorld&show_icons=true&theme=dracula&count_private=true)
-***  
+# 🙆‍♀️Introduce 
+안녕하세요 iOS 개발자로 성장 중인 김민규 입니다. 🍎 <br>
+앱 개발을 진행하고 있어요. 백엔드 경험으로 API도 개발 할 수 있어요.
+<br>
+#### 📩 CONTACT : mingyukim324@gmail.com
 
-# 👊 CAREER 
+** 🗂️ 김민규 개발자 이력서 확인하기 👀**
 
-🏫 __기계자동차공학부 자동차공학전공__  졸업 🎓  
-👨‍💻 신세계 I&C **JAVA 백엔드** 개발자 과정 수료 🎓
+<!-- <a href="https://yearweekend.notion.site/112784537014803aa600f13d1cef18d9" target="_blank"><img src="https://img.shields.io/badge/Notion Portfolio Link ↗ -007396?style=border:for-the-badge&logo=java&logoColor=white; " ></a> -->
 
-### [:accessibility: Info](notion링크)
---- 
-## ✒️ Let me introduce myself
+<br>
 
-####  내 소개
+![Gyunorld's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gyunorld&show_icons=true&theme=dracula)
 
-####  내 소개
+<br>
 
+#  🗺️ Experience
+   공주대학교 기계자동차공학부 자동차공학전공 졸업<br>
+   신세계I&C JAVA 백엔드 2차수 수료<br>
 
+#  📚 Stacks
+<div align=center> 
+  <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white"> 
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"> 
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"> 
+  <br>
+  
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+  <img src="https://img.shields.io/badge/spring Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
+  <br>
+  
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
+  <br>
+  
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
---- 
-### 🕰️ INFORMATION 
+  <br>
+</div>
 
-📧 *mingyukim324@gmail.com*
+<br>
 
---- 
-### ⚙️ SKILL & Setting 
+#  🔰 Project
+<div align=center> 
+  
+  <br>
+  
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyunorld&hide=html)
+<br>
 
-| Language | IDE | Framwork | Database |
-|-----|-----|-----|-----|
-|<img alt="Java" src ="https://img.shields.io/badge/Java-000000.svg?&style=for-the-badge&logo=Java&logoColor=white"/> | <img alt="intellijidea" src ="https://img.shields.io/badge/intellij-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=#000000"/> | <img alt="spring" src ="https://img.shields.io/badge/spring-000000.svg?&style=for-the-badge&logo=spring&logoColor=white"/> | <img alt="MySql" src ="https://img.shields.io/badge/MySql-000000.svg?&style=for-the-badge&logo=MySqle&logoColor=#092E20"/> |
-|<img alt="Swift" src ="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>|<img alt="Xcode" src ="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white">|||
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyunorld)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
---- 
-
+<br>
+<hr>
+</div>
