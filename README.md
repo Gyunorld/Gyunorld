@@ -50,8 +50,9 @@
 <br>
 
 #  🔰 Project
+
+[첫번쨰 앱: 글력](https://apps.apple.com/app/%EA%B8%80%EB%A0%A5/id6738728977)
 <div align=center> 
-  
   <br>
   
 </div>
