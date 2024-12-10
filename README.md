@@ -51,7 +51,9 @@
 
 #  🔰 Project
 
-[첫번쨰 앱: 글력](https://apps.apple.com/app/%EA%B8%80%EB%A0%A5/id6738728977)
+### [첫번쨰 앱: 글력]
+<a href="https://apps.apple.com/kr/app/%EA%B8%80%EB%A0%A5/id6738728977" target="_blank"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" ></a>
+
 <div align=center> 
   <br>
   
