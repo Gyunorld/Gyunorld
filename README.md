@@ -9,8 +9,8 @@
 #### 📩 CONTACT : mingyukim324@gmail.com
 
 ** 🗂️ 김민규 개발자 이력서 확인하기 👀**
-
-<!-- <a href="https://yearweekend.notion.site/112784537014803aa600f13d1cef18d9" target="_blank"><img src="https://img.shields.io/badge/Notion Portfolio Link ↗ -007396?style=border:for-the-badge&logo=java&logoColor=white; " ></a> -->
+<br>
+ <a href="https://polite-colossus-194.notion.site/1524c4d3f4e380c3add1d9b25297fcef?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion Portfolio Link ↗ -007396?style=border:for-the-badge&logo=java&logoColor=white; " ></a>
 
 <br>
 
