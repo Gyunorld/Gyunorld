@@ -1,6 +1,6 @@
 <div align = center>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=header&text=iOSDEVELOPER&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=240&section=header&text=iOS_DEVELOPER&fontSize=70)
 
 # 🙆‍♀️Introduce 
 안녕하세요 iOS 개발자로 성장 중인 김민규 입니다. 🍎 <br>
